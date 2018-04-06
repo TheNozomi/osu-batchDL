@@ -1,0 +1,15 @@
+{
+  "name": "osu-batchdl",
+  "version": "0.1.0",
+  "description": "Simple Node.js program to download a list of osu! beatmaps",
+  "main": "index.js",
+  "dependencies": {
+    "consola": "^1.2.0",
+    "node-osu": "^1.3.0",
+    "request": "^2.85.0",
+    "sanitize-filename": "^1.6.1"
+  },
+  "repository": "https://github.com/TheNozomi/osu-batchdl",
+  "author": "TheNozomi",
+  "license": "GPL-3.0-only"
+}

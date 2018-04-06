@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules
+cmd.bat
+/.idea
+/docs
+/logs
+.env
+/dist
+.env-safe

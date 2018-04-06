@@ -1,0 +1,7 @@
+{
+    "username": "osu username",
+    "password": "osu password",
+    "token": "osu api token",
+    "noVideo": 1,
+    "maxThreads": 4
+}
